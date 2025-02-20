@@ -1,0 +1,39 @@
+[2025-02-18 11:15:29] SERVER: ayush has joined the chat
+[2025-02-18 11:15:31] ayush: ayush: lala
+[2025-02-18 11:15:33] ayush: ayush: lala
+[2025-02-18 11:15:34] ayush: ayush: kaka
+[2025-02-18 11:15:35] ayush: ayush: uaja
+[2025-02-18 11:15:43] ayush: ayush: /history admin123
+[2025-02-18 11:17:00] SERVER: ayush has left the chat
+[2025-02-18 11:17:15] SERVER: ayush has joined the chat
+[2025-02-18 11:17:26] ayush: ayush: /history admin123
+[2025-02-18 11:17:41] ayush: ayush: hello
+[2025-02-18 11:17:46] ayush: ayush: hi
+[2025-02-18 11:17:48] ayush: ayush: whats up
+[2025-02-18 11:17:53] ayush: ayush: /history admin
+[2025-02-18 11:18:02] ayush: ayush: /history admin123
+[2025-02-18 11:18:09] SERVER: ayush has left the chat
+[2025-02-18 11:18:25] SERVER: ayush has joined the chat
+[2025-02-18 11:18:28] ayush: ayush: hello
+[2025-02-18 11:18:30] ayush: ayush: hi
+[2025-02-18 11:18:39] SERVER: hari has joined the chat
+[2025-02-18 11:18:40] hari: hari: hi
+[2025-02-18 11:18:42] hari: hari: hello
+[2025-02-18 11:18:49] SERVER: admin has joined the chat
+[2025-02-18 11:18:59] admin: admin: /history admin123
+[2025-02-18 11:22:10] SERVER: ayush has joined the chat
+[2025-02-18 11:22:13] SERVER: hari has joined the chat
+[2025-02-18 11:22:15] hari: hari: hi
+[2025-02-18 11:22:18] ayush: ayush: hello
+[2025-02-18 11:22:21] hari: hari: whatsup
+[2025-02-18 11:22:24] ayush: ayush: all fine
+[2025-02-18 11:22:53] hari: hari: hello
+[2025-02-18 11:22:57] hari: hari: hi
+[2025-02-20 20:52:35] SERVER: ayush has joined the chat
+[2025-02-20 20:52:37] ayush: ayush: hello
+[2025-02-20 20:54:40] SERVER
+[2025-02-20 20:54:45] hi
+[2025-02-20 20:56:03] SERVER 
+[2025-02-20 20:56:04] hi4 
+[2025-02-20 20:56:38] SERVER: hello has joined the chat
+[2025-02-20 20:56:41] hello: hello: hibro
